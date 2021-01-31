@@ -31,8 +31,8 @@ ul {
 
 .wall {
 	transition : background-color 0.1s ease-in-out;
-	background-color: #262b28;
-	border-color: #262b28;
+	background-color: #5300cf;
+	border-color: #5300cf;
 }
 
 .none {
